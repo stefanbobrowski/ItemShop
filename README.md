@@ -1,21 +1,16 @@
-# ItemShop 
-by Stefan Bobrowski
-
-A shopping cart app for a sample online store. Made possible with angularjs.
-
+# ItemShop
+## Simple shopping cart app. Made with angularjs.
 As seen here: http://stefanbobrowski.com/ItemShop
 
-Shopping Cart:
-- Open with icon on top right or after an Item is added to Cart
+### Showcases
+Basic Angular <br />
+Directives <br />
+Controllers <br />
+OOP <br />
+REST <br />
 
-Add Item to Inventory:
-- Click on green 'ADD ITEM' to show the add Item to Inventory form
-- Duplicate names with different prices aren't accepted
-
-Inventory (Products):
-- Add to Cart or remove Items from Inventory
-- Cannot add or remove more Inventory than available
-
-
-
-
+### Commands
+git clone https://github.com/stefanbobrowski/stefan-bob-master.git <br />
+cd stefan-bob-master <br />
+npm install <br />
+gulp <br />
